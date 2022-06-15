@@ -63,16 +63,16 @@ cv2.destroyAllWindows()
 ## Output
 
 ### Input image and grayscale image
-![Screenshot (184)](https://user-images.githubusercontent.com/75243072/169360674-00d38fd9-0ece-45da-bae5-7475cfd8db3c.png)
+![Screenshot (307)](https://user-images.githubusercontent.com/75243072/173773475-00d91bdc-1932-4d65-a3ff-d94f13a68b5d.png)
 
 
 ### Canny Edge detector output
-![Screenshot (185)](https://user-images.githubusercontent.com/75243072/169360807-31c9640c-f288-4ff4-8443-8a854247f892.png)
+![Screenshot (185)](https://user-images.githubusercontent.com/75243072/173773667-7e0bae2a-017c-4844-a8cc-568b711333a6.png)
 
 
 ### Display the result of Hough transform
+![Screenshot (202)](https://user-images.githubusercontent.com/75243072/173773735-a7f85695-cf7c-40a0-96ed-da16dd7472b8.png)
 
-![Screenshot (202)](https://user-images.githubusercontent.com/75243072/169361443-370c1e9a-c778-46f2-9eb2-69da855a54e4.png)
 
 ## Result:
 Thus the program is written with python and OpenCV to detect lines using Hough transform. 
