@@ -70,7 +70,7 @@ cv2.destroyAllWindows()
 ![Screenshot (185)](https://user-images.githubusercontent.com/75243072/173773667-7e0bae2a-017c-4844-a8cc-568b711333a6.png)
 
 
-### Display the result of Hough transform
+### <br><br>Display the result of Hough transform
 ![Screenshot (202)](https://user-images.githubusercontent.com/75243072/173773735-a7f85695-cf7c-40a0-96ed-da16dd7472b8.png)
 
 
